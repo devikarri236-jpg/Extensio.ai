@@ -22,7 +22,7 @@ This Node.js backend receives a user prompt, generates a Chrome extension manife
   - Body: `{ "id": "optional", "projectName": "...", "prompt": "...", "files": { ... } }`
   - Saves or updates a project.
 
-## Setup
+# Setup
 
 1. Copy `.env.example` or set `OPENAI_API_KEY` in your environment.
 2. Run `npm install`.
