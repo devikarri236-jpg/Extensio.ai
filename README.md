@@ -32,4 +32,4 @@ This Node.js backend receives a user prompt, generates a Chrome extension manife
 
 - Generated `manifest.json` is validated as JSON before the archive is created.
 - Downloads are served from `/downloads`.
-- Saved projects are persisted in `data/projects.json`.
+- Saved projects are persisted in `data/projects.json`..
