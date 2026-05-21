@@ -1,4 +1,4 @@
-# Extensio.ai
+## Extensio.ai
 
 No-code Chrome extension generator backend for Project 3.
 
